@@ -1,1 +1,1 @@
-# simple_shell
+this is my simple shell project in alx software engineering 

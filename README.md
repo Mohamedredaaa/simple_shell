@@ -1,1 +1,1 @@
-this is my simple shell project in alx software engineering 
+THIS IS MY PROJECT IN ALX 
